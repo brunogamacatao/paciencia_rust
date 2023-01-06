@@ -6,8 +6,16 @@ It's a whole new world for a Java/Python/C programmer, used to garbage collector
 
 ## Dependencies
 
-SDL2
-SDL2 Image
+* SDL2
+* SDL2 Image
+
+## Running
+
+`cargo run`
+
+## Building the Release Binary
+
+`cargo build --release`
 
 ## General Considerations
 
